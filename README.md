@@ -2,7 +2,7 @@
 This is a code created to help you organize all your files at the directory you choose in Windows. You're completly free to choose if you organize all of them by once or just some of them.
 
 ## How to use
-To use this file organizer follow the following instructions:
+To use this file organizer follow the instructions:
 * Clone this repository using git clone. Make sure you clone it in "Desktop" directory and don't change its name, otherwise it won't work properly.
 * Execute your favorite IDE/Editor as administrator and open this repository's folder.
 * Execute the "make_key.py" file. This will generate a key to use the file organizer with menu context (The window that pops up when you use right click)
