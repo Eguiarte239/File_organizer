@@ -12,7 +12,7 @@ def selectOption():
         os.system("PAUSE")
         sys.exit()
 
-print("Before start make sure you're in the location you want to use to organize your files. If not you can press CTRL + C to stop this program\n")
+print("Before start make sure you're in the location you want to use to organize your files.\nIf not you can press CTRL + C to stop this program\n")
 
 option = selectOption()
 if option == 1:
