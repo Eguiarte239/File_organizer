@@ -3,4 +3,4 @@ This is a code created to help you organize all your files at the directory wher
 
 ## How to use
 To use this file organizer just clone this repository, place the executable inside the directory you want to organize and double click it. Then just follow the instructions.
-If the executable doesn't work, just put the .py file inside the directory you want to organize, open your CMD, move to the same directory and type in "python file_organizer.py". Then just follow the instructions.
+If the executable doesn't work, just put the .py files inside the directory you want to organize, open your CMD, move to the same directory and type in "python main.py". Then just follow the instructions.
